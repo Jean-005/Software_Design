@@ -1,9 +1,15 @@
 # Software Design Methodologies
 
 
-1. Structured
-2. Function oriented design
-3. Object oriented design
+**1. Structured** - design decomposes a program into smaller, independent and well-defined functions with clear interfaces; it addresses the behavior portion of a software system separately from the data portion.  
+
+
+
+**2. Function oriented design** - a subset of structured design given that they share many principles. In function oriented design, the system is functionally designed by breaking down the model into a series of interacting pieces or modules, each with a distinct function.
+
+
+
+**3. Object oriented design** - a design methodology centred on building the system around objects, which encapsulate data (attributes) and behavior (methods). 
 
 
 
